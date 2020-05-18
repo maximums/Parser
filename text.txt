@@ -1,0 +1,10 @@
+fun float media(int a; int b;){
+    float ast;
+    int t1;
+    int t2;
+    t1 = 2;
+    t2 = 3;
+}
+fun int main(){
+    media(ast, t2);
+}
